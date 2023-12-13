@@ -1,8 +1,6 @@
-
-
-   <h1 style="color:purple;">Hello World</h1>
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+GitHub+Profile.">
+</p>
 
 <!---
 afshintek/afshintek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
