@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+GitHub+Profile.">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=fedora⚡afshin ~ ⤳    .">
 </p>
 
 <!---
