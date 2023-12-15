@@ -1,7 +1,7 @@
 # Hi there 👋 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=F7F7F7&random=false&width=435&lines=python%F0%9F%90%8D+rust%F0%9F%A6%80+git)](https://git.io/typing-svg)
 
-I'm a back-end developer just starting out with languages like Python and Rust. 
+
+I'm a back-end developer just starting out with Python and Rust. 
 
 ## 🛠 Technologies and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
